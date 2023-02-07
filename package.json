@@ -11,7 +11,7 @@
     "url": "git+https://github.com/mtiganik/testPackageRepo.git"
   },
   "publishConfig": {
-    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+    "@mtiganik:registry": "https://npm.pkg.github.com"
   }, 
   "author": "",
   "license": "ISC",
