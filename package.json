@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/mtiganik/testPackageRepo.git"
   },
-  "publishConfig": {
-    "@mtiganik:registry": "https://npm.pkg.github.com"
-  }, 
   "author": "",
   "license": "ISC",
   "bugs": {
